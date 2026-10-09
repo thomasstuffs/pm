@@ -1,21 +1,29 @@
-Programação mobile
+*Programação mobile*
 
-App_Scholar
+*App_Scholar*
 
-Sobre
+*Sobre*
 
-O aplicativo visa deixar mais efetivo a gestão e administração de escolas.
-Funcionalidades
+-O aplicativo visa deixar mais efetivo a gestão e administração de escolas.
 
-Gerenciamento de alunos
-Gerenciamento de professores e seus diplomas atuais
-Cadastro e desligamentos de alunos
-Cadastro e desligamento de professores
-Cadastro e desligamento de coordenadores
-Cadastro e desligamento de responsaveis
-Gerenciamento de notas
-Gerenciamento de cursos e aulas
-Tecnologias utilizadas -css -java script -html -php
+*Funcionalidades*
+
+-Gerenciamento de alunos ativos e  inativos
+-Gerenciamento de professores ativos e inativos e seus diplomas atuais
+-gerenciamento de coordenadores ativos e inativos
+-gerenciamento de responsaveis ativos e inativos
+-Cadastro e desligamentos de alunos
+-Cadastro e desligamento de professores
+-Cadastro e desligamento de coordenadores
+-Cadastro e desligamento de responsaveis
+-Gerenciamento de notas
+-Gerenciamento de cursos e aulas
+
+*Tecnologias utilizadas*
+-css 
+-java script
+-html 
+-php
 
 Estrutura do projeto
 
